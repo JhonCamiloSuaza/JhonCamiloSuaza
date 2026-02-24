@@ -1,12 +1,14 @@
-# 👨‍💻 Jhon Camilo Suaza 👋
+# 👨‍💻 Jhon Camilo Suaza
 
 <div align="center">
 
+![Profile Badge](https://img.shields.io/badge/APRENDIZ%20DE%20DESARROLLADOR-Fullstack%20en%20Formación-brightgreen?style=for-the-badge)
+
 ### 🚀 Desarrollador en Formación | 💡 Apasionado por la Tecnología
 
-**_Estudiante de Análisis y Desarrollo de Software_**
+**_Aprendiz de Análisis y Desarrollo de Software_**
 
-_Construyendo bases sólidas como desarrollador | Mejorando cada día mis habilidades técnicas_
+> Construyendo bases sólidas como desarrollador | Mejorando cada día mis habilidades técnicas
 
 ---
 
@@ -14,89 +16,137 @@ _Construyendo bases sólidas como desarrollador | Mejorando cada día mis habili
 
 ## 🔭 Sobre Mí
 
-<table><tr><td>
+<div align="center">
 
-🌱 **En Desarrollo:**
-- 🔹 Lógica de programación  
-- 🔹 Estructuras de datos  
-- 🔹 Fundamentos del desarrollo de software  
+**Aprendiz de Desarrollador Software**  
+_Enfocado en Desarrollador full stack | Apasionado por la Tecnología_
 
-💻 **Herramientas:**
-- ✅ Control de versiones con **Git y GitHub**  
+</div>
 
-📚 **Aprendiendo:**
-- 🔹 Programación Orientada a Objetos (POO)  
-- 🔹 Bases de datos  
-
-🚀 **Objetivo:**
-- Convertirme en desarrollador backend con buenas prácticas y código limpio
-
-</td></tr></table>  
+| 🌱 En Desarrollo | 💻 Herramientas | 📚 Aprendiendo | 🎯 Objetivo |
+|:---:|:---:|:---:|:---:|
+| **Lógica de Programación** | **Git & GitHub** | **Programación Orientada a Objetos** | **Desarrollador Backend** |
+| **Estructuras de Datos** | **Docker** | **Bases de Datos** | **Código Limpio** |
+| **Fundamentos del Desarrollo** | **VS Code** | **Arquitectura de Software** | **Buenas Prácticas** |
 
 ---
 
-## 🚧 Proyecto en Proceso
+## 🚧 Proyecto Destacado
 
-### 📍 GPS Escolar
-
-> Sistema de monitoreo y seguimiento de rutas escolares mediante geolocalización
-
-| Aspecto | Descripción |
-|--------|-------------|
-| 🎯 **Objetivo** | Permitir a padres y administradores visualizar la ubicación del transporte escolar en tiempo real |
-| 🔧 **Enfoque Actual** | Diseño de estructura, lógica del proyecto y organización del repositorio |
-| 📊 **Estado** | 🟡 En desarrollo (fase de aprendizaje y construcción) |
-
-> _Este proyecto forma parte de mi proceso de formación y crecimiento como desarrollador_
-
----
-
-## 💻 Habilidades Técnicas
+### 📍 GPS Escolar - Sistema de Geolocalización
 
 <div align="center">
 
-### 📝 Lenguajes
+![Destacado](https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=for-the-badge)
 
-![Java](https://img.shields.io/badge/Java-Fundamentos-orange?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-Básico-lightblue?style=flat-square)
+</div>
 
-### 🛠️ Herramientas
+> **Descripción:** Sistema innovador de monitoreo y seguimiento de rutas escolares mediante geolocalización en tiempo real.
 
-![Git](https://img.shields.io/badge/Git-Control%20de%20Versiones-red?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Repositorios-black?style=flat-square)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-Terminal-lightgrey?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Contenedores-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### 🎯 Detalles del Proyecto
 
-### 💡 Conceptos Clave
+| Característica | Detalles |
+|:---|:---|
+| **Objetivo Principal** | Permitir a padres y administradores visualizar la ubicación del transporte escolar en tiempo real |
+| **Enfoque Actual** | Diseño de arquitectura, lógica del proyecto y organización del repositorio |
+| **Estado Actual** | 🟡 En desarrollo (fase de aprendizaje y construcción) |
+| **Propósito** | Proyecto de formación y crecimiento como desarrollador de software |
 
-✨ Lógica de programación  
-🎯 Programación Orientada a Objetos (POO)  
-⚙️ Principios SOLID  
-🔄 Estructuras de control  
-📊 Bases de datos relacionales  
-🏃 Metodologías ágiles (Scrum básico)
+---
+
+## 💻 Stack Técnico
+
+<div align="center">
+
+### 🔤 Lenguajes de Programación
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+### 🛠️ Herramientas y Plataformas
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+### 💡 Conceptos y Metodologías
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+- ✨ **Lógica de Programación**
+- 🎯 **Programación Orientada a Objetos (POO)**
+- ⚙️ **Principios SOLID**
+- 🔄 **Estructuras de Control**
+- 📊 **Bases de Datos Relacionales**
+-  **API REST - Nivel Básico**
+- 🏃 **Metodologías Ágiles (Scrum)**
 
 </div>
 
 ---
 
-## 🎯 Objetivo Profesional
+</div>
+
+## ⏳ En Tiempo Libre
 
 <div align="center">
 
-> Crecer como desarrollador **full stack**, aprendiendo buenas prácticas y arquitectura de software, mientras construyo proyectos que demuestren mi evolución técnica.
+| Actividad | Descripción |
+|-----------|-------------|
+| 💻 **Codificación** | Crear proyectos personales y experimentar con nuevas tecnologías |
+| 📚 **Lectura** | Leer libros sobre desarrollo de software y mejores prácticas |
+| 🎥 **Videos Técnicos** | Ver tutoriales y charlas sobre codificación y desarrollo |
+| ⚽ **Deporte** | Actividades físicas para mantener un equilibrio mental y corporal |
 
 </div>
 
 ---
 
-## 📫 Contacto & Redes
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  Convertirme en Desarrollador full stack competente y          ║
+║  responsable, dominando buenas prácticas, arquitectura de      ║
+║  software y construcción de soluciones escalables que          ║
+║  demuestren mi evolución técnica continua.                     ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 Estadísticas
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jhon04suazasanchez@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jhon04suazasanchez@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhon%20Camilo%20Suaza%20Sanchez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhon-camilo-suaza-sanchez)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonCamiloSuaza&show_icons=true&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contacto & Conecta Conmigo
+
+<div align="center">
+
+### 💬 Vamos a Conectar
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhon04suazasanchez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-camilo-suaza-sanchez)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhonCamiloSuaza)
+
+---
+
+<div>
+  
+**📧 Email:** jhon04suazasanchez@gmail.com  
+**🔗 LinkedIn:** [Jhon Camilo Suaza Sanchez](https://www.linkedin.com/in/jhon-camilo-suaza-sanchez)
+
+</div>
 
 ---
 
