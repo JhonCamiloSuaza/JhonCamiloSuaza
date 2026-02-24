@@ -117,18 +117,6 @@ _Enfocado en Desarrollador full stack | Apasionado por la Tecnología_
 
 </div>
 
----
-
-## 📊 Estadísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonCamiloSuaza&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contacto & Conecta Conmigo
 
 <div align="center">
